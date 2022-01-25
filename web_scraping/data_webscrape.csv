@@ -1,0 +1,450 @@
+,job_title,job_company,job_details,location,experience,salary,min_salary,max_salary,min_experience
+0,data analytic,PT Kawan Lama Sejahtera,"['Jakarta', 'IDR\xa010.000.000 - 20.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '10.000.000', '-', '20.000.000']",10000000,20000000,3
+1,data engineer,Mapan - PT Ruma (Rekan Usaha Mikro Anda),"['SCBD, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+2,business analyst,AIA Singapore Pte Ltd,"['Batam', '3 – 5 tahun']",Batam,3 – 5 tahun,[],0,0,3
+3,e-commerce specialist (remote),Etaily,"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+4,digital marketing manager (remote),Hepelle,"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+5,database developer (batam),AIA Singapore Pte Ltd,"['Batam', '3 – 5 tahun']",Batam,3 – 5 tahun,[],0,0,3
+6,key account manager (remote),Etaily,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+7,senior product manager,Lion Parcel,"['Kebon Jeruk, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+8,data analyst,Autovice.id,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+9,data analyst,Wifkain,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+10,data analyst,Wall Street English,"['Senayan, Jakarta', 'IDR\xa07.000.000 - 13.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '7.000.000', '-', '13.000.000']",7000000,13000000,1
+11,data analyst,PT Stampindo Lancar Jaya,"['Kembangan, Jakarta', 'IDR\xa05.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,1
+12,data analyst,PT Pintar Data Group,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+13,data analyst,Pt. Oto Klix Indonesia,"['Kebayoran Lama, Jakarta', 'IDR\xa05.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,1
+14,data analyst,Miniletics,"['Surabaya', 'IDR\xa05.000.000 - 7.000.000', '1 – 3 tahun']",Surabaya,1 – 3 tahun,"['IDR', '5.000.000', '-', '7.000.000']",5000000,7000000,1
+15,data analyst,Niagahoster,"['Yogyakarta', 'IDR\xa06.000.000 - 7.000.000', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,"['IDR', '6.000.000', '-', '7.000.000']",6000000,7000000,1
+16,data analyst,Port Cities,"['Semarang', 'USD\xa01.000', '1 – 3 tahun']",Semarang,1 – 3 tahun,"['USD', '1.000']",0,0,1
+17,data analyst,AIA Singapore Pte Ltd,"['Batam', '3 – 5 tahun']",Batam,3 – 5 tahun,[],0,0,3
+18,data analyst,Kasual,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+19,data analyst,RateS,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+20,data analyst,Kamoro Maxima Integra,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+21,data analyst,Onstock,"['Jakarta', 'IDR\xa08.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '8.000.000', '-', '10.000.000']",8000000,10000000,1
+22,data analyst,Botika,"['Yogyakarta', '']",Yogyakarta,,[],0,0,0
+23,data analyst,Pt Boogie Protective,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+24,data analyst,MNC Group,"['Menteng, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+25,data analyst,PT Qwords Company International,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+26,data analyst,Shox Rumahan,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+27,data analyst,Lumina,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+28,data analyst,Codemi,"['Yogyakarta', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,[],0,0,1
+29,data analyst,Summit Institute Of Development,"['Mataram', '3 – 5 tahun']",Mataram,3 – 5 tahun,[],0,0,3
+30,data analyst,Bina Nusantara Group,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+31,data analyst,ilmuOne Data,"['Jakarta', 'IDR\xa08.000.000 - 15.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '8.000.000', '-', '15.000.000']",8000000,15000000,1
+32,data analyst,Maqan Food,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+33,data analyst,Pt Hasnur Jaya Utama (hasnur Group),"['Senopati, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+34,data analyst,Pt SehatQ Harsana Emedika,"['Jakarta', 'IDR\xa012.000.000 - 23.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '12.000.000', '-', '23.000.000']",12000000,23000000,1
+35,data analyst,PT Bobobox Mitra Indonesia,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+36,data analyst,PT Paragon Pratama Teknologi (StickEarn),"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+37,data analyst,Mitramas Infosys Global,"['Jakarta', 'IDR\xa05.000.000 - 7.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '7.000.000']",5000000,7000000,1
+38,data analyst,PT Cybertrend Intrabuana,"['Cilandak, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+39,data analyst,ITOMMEY Bintang Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+40,data analyst,PT. Thenblank Kreasi Indonesia,"['Depok', 'Kurang dari setahun']",Depok,Kurang dari setahun,[],0,0,0
+41,data analyst,PT Flux Asia Solusindo,"['Senayan', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+42,data analyst,Bareksa Portal Investasi / Bareksa.com,"['Kemang, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+43,data analyst,Bareksa Portal Investasi / Bareksa.com,"['Kemang, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+44,data analyst,Bareksa Portal Investasi / Bareksa.com,"['Kemang, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+45,data analyst,PT Bobobox Mitra Indonesia,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+46,data analyst,Hypebeast,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+47,data analyst,Agate,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+48,data analyst,Niagahoster,"['Yogyakarta', 'IDR\xa07.000.000 - 9.000.000', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,"['IDR', '7.000.000', '-', '9.000.000']",7000000,9000000,1
+49,data analyst,Campaign.com,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+50,data analyst,Rata Id,"['Jakarta', 'Login to view estimated salary by Glints.', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,1
+51,data analyst,PT Kita Teknologi Andalan,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+52,data analyst,Danamas (Lancar by Danamas),"['Grogol Petamburan, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+53,data analyst,Thinkmatch,"['Jakarta', 'IDR\xa00 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '0', '-', '10.000.000']",0,10000000,1
+54,data analyst,Dezire Technologies Pte Ltd,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+55,data scientist,Delman.io,"['Jakarta', 'IDR\xa06.000.000 - 15.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '6.000.000', '-', '15.000.000']",6000000,15000000,1
+56,data analyst,Surplus Indonesia,"['Jakarta', '']",Jakarta,,[],0,0,0
+57,data analyst,Glints Indonesia,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+58,data analyst,Lifepal,"['Kemang, Jakarta', 'IDR\xa010.000.000 - 25.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '10.000.000', '-', '25.000.000']",10000000,25000000,3
+59,data analyst,PT. Moladin Digital Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+60,data analyst,PT Sumber Sinergi Makmur,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+61,data analyst,Dhana Jasa Konsultan,"['Abang', 'IDR\xa013.000.000 - 25.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '13.000.000', '-', '25.000.000']",13000000,25000000,3
+62,data analyst,Altech Teknologi Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+63,data analyst,PT Aino Indonesia,"['Jakarta', 'IDR\xa04.000.000 - 6.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.000.000', '-', '6.000.000']",4000000,6000000,1
+64,data analyst,99.co Indonesia,"['Jakarta', '']",Jakarta,,[],0,0,0
+65,data analyst,Tripper Travel,"['Kuningan, Jakarta', 'Login to view estimated salary by Glints.', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,1
+66,data analyst,Telunjuk.com,"['Kuningan, Jakarta', 'IDR\xa0500.000 - 700.000', '']",Jakarta,,"['IDR', '500.000', '-', '700.000']",500000,700000,0
+67,data analyst,Pt Merah Cipta Media,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+68,data analyst,99.co Indonesia,"['Jakarta', '']",Jakarta,,[],0,0,0
+69,data analyst,Arcstone,"['Jakarta', 'IDR\xa012.000.000 - 17.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '12.000.000', '-', '17.000.000']",12000000,17000000,1
+70,data analyst,Act Foundation,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+71,data analyst,Kitalulus,"['Jakarta', 'IDR\xa02.000.000 - 2.750.000', '']",Jakarta,,"['IDR', '2.000.000', '-', '2.750.000']",2000000,2750000,0
+72,data research analyst,Wellive,"['Bandung', '']",Bandung,,[],0,0,0
+73,it quality assurance analyst,Pt Surya Madistrindo,"['Jakarta', '']",Jakarta,,[],0,0,0
+74,data analyst,Ninja Xpress,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+75,data analyst,Bitlabs,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+76,digital marketing analyst,PT Sribu Digital Kreatif,"['Jakarta', 'IDR\xa06.000.000 - 8.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '6.000.000', '-', '8.000.000']",6000000,8000000,1
+77,data analyst,Pt Eigerindo Multi Produk Industri,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+78,data entry analyst intern,Wifkain,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+79,data engineer,Sibernetik Integra Data,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+80,data analyst,Isikulkas,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+81,data analyst,Lozy,"['Tasikmalaya', 'IDR\xa02.800.000 - 3.000.000', 'Kurang dari setahun']",Tasikmalaya,Kurang dari setahun,"['IDR', '2.800.000', '-', '3.000.000']",2800000,3000000,0
+82,performance marketing analyst,ilmuOne Data,"['Jakarta', 'IDR\xa05.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,1
+83,data scientist,ilmuOne Data,"['Jakarta', 'IDR\xa05.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,1
+84,data analyst,Segari,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+85,data analyst,Vidio,"['Senayan, Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+86,data analyst,Nucleusbi,"['Denpasar', '1 – 3 tahun']",Denpasar,1 – 3 tahun,[],0,0,1
+87,data analyst,Konner Advisory,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+88,data analyst,RateS,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+89,data analyst,BFI Technologies,"['Jakarta', '']",Jakarta,,[],0,0,0
+90,business analyst,Impactfirst,"['Grogol Petamburan, Jakarta', 'IDR\xa05.000.000 - 10.000.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,0
+91,data scientist,Data Arts Xperience,"['Jakarta', 'IDR\xa05.000.000 - 20.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '20.000.000']",5000000,20000000,1
+92,data analyst,Pt Infomedia Solusi Humanika,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+93,data scientist,PT Metranet,"['Jakarta', 'IDR\xa05.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,1
+94,data science trainee,PT. Algoritma Data Indonesia,"['Kuningan, Jakarta', 'IDR\xa05.000.000 - 8.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '8.000.000']",5000000,8000000,1
+95,data engineer,DANA Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+96,data scientist,PT Stampindo Lancar Jaya,"['Kembangan, Jakarta', 'IDR\xa010.000.000 - 20.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '10.000.000', '-', '20.000.000']",10000000,20000000,3
+97,market insight analyst,Lion Parcel,"['Kebon Jeruk, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+98,data engineer,PT Stampindo Lancar Jaya,"['Kembangan, Jakarta', 'IDR\xa010.000.000 - 20.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '10.000.000', '-', '20.000.000']",10000000,20000000,3
+99,sourcing analyst,Edenfarm,"['Kembangan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+100,data engineer,Dompet Kilat,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+101,data analyst,PT. Procon Indo Sekata,"['Jakarta', '']",Jakarta,,[],0,0,0
+102,data engineer,Optik Melawai,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+103,data analyst,Celerates,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+104,business intelligence analyst,Bagscity,"['Tangerang', 'IDR\xa05.000.000 - 7.500.000', '1 – 3 tahun']",Tangerang,1 – 3 tahun,"['IDR', '5.000.000', '-', '7.500.000']",5000000,7500000,1
+105,data analis,Zeta Bags,"['Kemang, Jakarta', 'IDR\xa05.000.000 - 6.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '6.000.000']",5000000,6000000,1
+106,business intelligence analyst (bi analyst),Feedloop,"['Bandung', '3 – 5 tahun']",Bandung,3 – 5 tahun,[],0,0,3
+107,data scientist,PT. Mindo Small Business Solutions,"['Yogyakarta', 'IDR\xa02.500.000 - 4.000.000', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,"['IDR', '2.500.000', '-', '4.000.000']",2500000,4000000,1
+108,data scientist,PT Cybertrend Intrabuana,"['Cilandak, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+109,data engineer,Pt Surya Madistrindo,"['Jakarta', '']",Jakarta,,[],0,0,0
+110,data analytic,Dezire Technologies Pte Ltd,"['Kuningan, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+111,business analyst,PT Bobobox Mitra Indonesia,"['Bandung', '3 – 5 tahun']",Bandung,3 – 5 tahun,[],0,0,3
+112,business analyst,Touchten Games,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+113,sales analyst,Ninja Xpress,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+114,data analyst,Pt. Selalu Sukese Prima,"['Tangerang', 'IDR\xa04.500.000 - 5.500.000', '1 – 3 tahun']",Tangerang,1 – 3 tahun,"['IDR', '4.500.000', '-', '5.500.000']",4500000,5500000,1
+115,data engineer,MNC Group,"['Menteng, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+116,research analyst,Pt Merah Cipta Media,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+117,merchandising analyst,Bagscity,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+118,data scientist,PT. Pintar Inovasi Digital,"['Jakarta', 'IDR\xa015.000.000 - 25.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '15.000.000', '-', '25.000.000']",15000000,25000000,3
+119,data analyst,Delos,"['Sleman', '']",Sleman,,[],0,0,0
+120,data entry intern,PT Karoten Asia Pasifik,"['Jakarta', 'IDR\xa0500.000 - 1.500.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '500.000', '-', '1.500.000']",500000,1500000,0
+121,data engineer,PT. Cudo Communications,"['Jakarta', 'IDR\xa06.000.000 - 6.500.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '6.000.000', '-', '6.500.000']",6000000,6500000,0
+122,operations analyst,Edenfarm,"['Kembangan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+123,data analysis supervisor,Pt. Mcdelica Food Indonesia,"['Serang', 'IDR\xa06.800.000 - 9.200.000', '3 – 5 tahun']",Serang,3 – 5 tahun,"['IDR', '6.800.000', '-', '9.200.000']",6800000,9200000,3
+124,data engineer,Yummy Corp,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+125,business analyst,PT Visionet Data Internasional,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+126,business analyst,Clik,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+127,data engineer,Mnc Portal Indonesia,"['Menteng, Jakarta', 'IDR\xa09.000.000 - 15.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '9.000.000', '-', '15.000.000']",9000000,15000000,1
+128,data scientist,Danamas (Lancar by Danamas),"['Jakarta', 'IDR\xa010.000.000 - 20.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '10.000.000', '-', '20.000.000']",10000000,20000000,1
+129,data scientist,Lyte Ventures Pte Ltd,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+130,data analytic,JULO,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+132,data engineer,Hypebeast,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+133,data scientist,Kumparan,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+134,head of data,PT. Koltiva,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+135,farm to table data officer,PT. Koltiva,"['Mampang Prapatan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+136,it data center operator,PT Visionet Data Internasional,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+137,data engineer,PT Transretail Indonesia,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+138,head of data,PT. Koltiva,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+139,business intelligence analyst ,Pt Krakatau Karya Abadi,"['Surabaya', 'IDR\xa05.000.000 - 8.000.000', '1 – 3 tahun']",Surabaya,1 – 3 tahun,"['IDR', '5.000.000', '-', '8.000.000']",5000000,8000000,1
+140,system analyst ,JMC IT Consultant,"['Yogyakarta', 'IDR\xa03.000.000 - 4.000.000', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,"['IDR', '3.000.000', '-', '4.000.000']",3000000,4000000,1
+141,data engineer,PT. Koltiva,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+142,sales operation analyst,Lifepal,"['Mampang Prapatan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+143,data engineer,Ics Compute,"['Kuningan, Jakarta', 'IDR\xa010.000.000 - 22.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '10.000.000', '-', '22.000.000']",10000000,22000000,1
+144,data analyst,PT Bangun Inovasi Teknologi,"['Denpasar', '1 – 3 tahun']",Denpasar,1 – 3 tahun,[],0,0,1
+145,data analytic,Pt Simplefi Teknologi Indonesia,"['Kuningan, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+146,data engineer,Pt Eigerindo Multi Produk Industri,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+147,business analyst,Id/x Partners,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+148,system analyst ,PT. Asian Sigma Technology,"['Tanah Abang, Jakarta', 'IDR\xa08.000.000 - 17.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '8.000.000', '-', '17.000.000']",8000000,17000000,3
+149,data validation support part-time (remote),Kulina,"['Yogyakarta', '']",Yogyakarta,,[],0,0,0
+150,sales analyst,Edenfarm,"['Kembangan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+151,data scientist,Bithealth,"['Grogol Petamburan, Jakarta', 'IDR\xa07.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '7.000.000', '-', '10.000.000']",7000000,10000000,1
+152,administrasi head office,Pt Bernofarm,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+153,research analyst,Pt. Paramitra Alfa Sekuritas,"['Setiabudi, Jakarta', 'IDR\xa07.000.000 - 15.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '7.000.000', '-', '15.000.000']",7000000,15000000,3
+154,business analyst,KB Insurance Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+155,system analyst ,PT Gamatechno Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+156,data scientist,Berrybenka.com,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+157,business intelligence analyst,Mapan - PT Ruma (Rekan Usaha Mikro Anda),"['Blok M, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+158,cfo analyst,Edenfarm,"['Kembangan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+159,business analyst,Cyberquote Indonesia,"['Surabaya', '3 – 5 tahun']",Surabaya,3 – 5 tahun,[],0,0,3
+160,business development - market analyst (internship),Kili Kili Adventure,"['Jakarta', 'IDR\xa02.000.000 - 10.000.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '2.000.000', '-', '10.000.000']",2000000,10000000,0
+161,data engineer,PT. Cudo Communications,"['Tangerang', 'IDR\xa08.000.000 - 10.000.000', '1 – 3 tahun']",Tangerang,1 – 3 tahun,"['IDR', '8.000.000', '-', '10.000.000']",8000000,10000000,1
+162,data engineer,PT Metranet,"['Jakarta', 'IDR\xa05.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,1
+163,data engineer,Port Cities,"['Semarang', 'IDR\xa02.900.000 - 3.300.000', '1 – 3 tahun']",Semarang,1 – 3 tahun,"['IDR', '2.900.000', '-', '3.300.000']",2900000,3300000,1
+164,business development analyst,PT Gamatechno Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+165,data scientist,Aiforesee,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+166,data manager,Ajaib,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+167,business analyst,Digital Envision,"['Semarang', 'IDR\xa03.000.000 - 5.000.000', '1 – 3 tahun']",Semarang,1 – 3 tahun,"['IDR', '3.000.000', '-', '5.000.000']",3000000,5000000,1
+168,data scientist,Xylo,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+169,business analyst,Pt. Empore Hezer Tama,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+170,data scientist,Codex Powered by Telkom Indonesia,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+171,system analyst ,PT. Folarium Innotek Indonesia,"['Tebet, Jakarta', 'IDR\xa06.000.000 - 8.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '6.000.000', '-', '8.000.000']",6000000,8000000,1
+172,data scientist,Nalagenetics,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+173,data scientist,Hukumonline.com,"['TB Simatupang, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+174,acquisition analyst internship,Furee,"['Setiabudi, Jakarta', 'IDR\xa01.000.000 - 1.200.000', '']",Jakarta,,"['IDR', '1.000.000', '-', '1.200.000']",1000000,1200000,0
+175,business analyst,Bisnis Integrasi Global,"['Kuningan, Jakarta', 'IDR\xa05.000.000 - 8.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '8.000.000']",5000000,8000000,1
+176,business analyst,Bizhare,"['Menteng, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+177,data engineer,Ics Compute,"['Kuningan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+178,system analyst ,Bina Nusantara Group,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+179,data engineer,Nawatech,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+180,product analyst,JULO,"['Jakarta', 'Login to view estimated salary by Glints.', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,1
+181,data engineer,Viddsee,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+182,data analyst,,"['Semarang', '3 – 5 tahun']",Semarang,3 – 5 tahun,[],0,0,3
+183,administration staff,PT. Kita Bisa Teknologi ,"['Tangerang', 'IDR\xa04.500.000 - 5.000.000', '1 – 3 tahun']",Tangerang,1 – 3 tahun,"['IDR', '4.500.000', '-', '5.000.000']",4500000,5000000,1
+184,data engineer,Agate,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+185,data engineer,Port Cities,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+186,marketing analyst staff,PT Adev Natural Indonesia,"['Bogor', '']",Bogor,,[],0,0,0
+187,data scientist,Pt Simplefi Teknologi Indonesia,"['Kuningan, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+188,performance analyst,TokoTalk,"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+189,data scientist,Moslem Community Application,"['Jakarta', 'IDR\xa010.000.000 - 15.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '10.000.000', '-', '15.000.000']",10000000,15000000,3
+190,data scientist,Kamoro Maxima Integra,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+191,data engineer,Htc Global Services,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+192,data engineer,Hypebeast,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+193,data engineer,PT Cybertrend Intrabuana,"['Cilandak, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+194,data engineer,Thinkmatch,"['Jakarta', 'IDR\xa00 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '0', '-', '10.000.000']",0,10000000,1
+195,data engineer,PT 360 Teknologi Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+196,analyst,PT Cerdas Digital Nusantara (CAKAP),"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+197,senior data operations,Gtech Group,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+198,data engineer,PT Paragon Pratama Teknologi (StickEarn),"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+199,business analyst,Pt Lucas Digital Indonesia,"['Palmerah, Jakarta', 'IDR\xa07.500.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '7.500.000', '-', '10.000.000']",7500000,10000000,1
+200,data scientist,Id/x Partners,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+201,business analyst,PT. Mandiri International Technology,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+202,data scientist,Pt Autentika Digital Indonesia,"['SCBD, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+203,data engineer,Pt Komunitas Anak Bangsa,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+204,data project assistant,Pt Krakatau Karya Abadi,"['Jakarta', 'IDR\xa05.000.000 - 9.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '9.000.000']",5000000,9000000,1
+205,business analyst,PT Indocyber Global Teknologi,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+206,business analyst,Maxxi Tani Teknologi,"['Surabaya', 'IDR\xa05.000.000 - 6.000.000', '1 – 3 tahun']",Surabaya,1 – 3 tahun,"['IDR', '5.000.000', '-', '6.000.000']",5000000,6000000,1
+207,business analyst,Cv.gink Technology,"['Bandar Lampung', 'IDR\xa04.000.000 - 8.000.000', '3 – 5 tahun']",Bandar Lampung,3 – 5 tahun,"['IDR', '4.000.000', '-', '8.000.000']",4000000,8000000,3
+208,credit analyst,Movus Technologies,"['Tanah Abang, Jakarta', 'IDR\xa05.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,1
+209,system analyst ,Pt Medika Digital Nusantara,"['Yogyakarta', 'Kurang dari setahun']",Yogyakarta,Kurang dari setahun,[],0,0,0
+210,business analyst,PT Code Development Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+211,quantitative analyst,PT. Sentadell Alpha Indonesia,"['Kebayoran Baru, Jakarta', 'IDR\xa065.000.000 - 125.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '65.000.000', '-', '125.000.000']",65000000,125000000,1
+212,data scientist,PT Sinar Mitra Sepadan Finance (Orix Japan),"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+213,data platform engineer,Pt Esri Indonesia,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+214,business analyst,Berrybenka.com,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+215,data scientist,Confidential Company Talenthunt 1 -010,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+216,financial analyst ,Pt Asia Rekapita Nusantara,"['Tanah Abang, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+217,business analyst,99.co,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+218,data scientist,Pt Simplefi Teknologi Indonesia,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+219,data engineer,Pt Gits Indonesia,"['Bandung', '3 – 5 tahun']",Bandung,3 – 5 tahun,[],0,0,3
+220,administration officer ,PT Visionet Data Internasional,"['Senayan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+221,product analyst,Sinbad,"['Jakarta', 'IDR\xa07.000.000 - 9.000.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '7.000.000', '-', '9.000.000']",7000000,9000000,0
+222,staf keuangan,PT Multi Trans Data,"['Tanah Abang, Jakarta', 'IDR\xa05.000.000 - 7.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '5.000.000', '-', '7.000.000']",5000000,7000000,3
+223,data scientist,Ajaib,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+224,system analyst ,KlikACC,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+225,business analyst,Tropic World Paradise,"['Kalideres, Jakarta', 'IDR\xa04.000.000 - 5.500.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '4.000.000', '-', '5.500.000']",4000000,5500000,3
+226,data analytic,Bina Nusantara Group,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+227,data scientist,Pt Simplefi Teknologi Indonesia,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+228,data engineer,Pt Vostra Internasional,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+229,system analyst ,Arbeit Consultancy,"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+230,data scientist,Thinkmatch,"['Jakarta', 'IDR\xa00 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '0', '-', '10.000.000']",0,10000000,1
+231,data analytic,Bina Nusantara Group,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+232,data engineer,PT. Deptech Digital Indonesia,"['Kuningan, Jakarta', 'IDR\xa08.000.000 - 12.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '8.000.000', '-', '12.000.000']",8000000,12000000,3
+233,system analyst ,Cv. Konsultan Teknologi Indonesia,"['Cempaka Putih, Jakarta', 'IDR\xa015.000.000 - 20.000.000', '5 – 10 tahun']",Jakarta,5 – 10 tahun,"['IDR', '15.000.000', '-', '20.000.000']",15000000,20000000,5
+234,it cyber security analyst,PT Visionet Data Internasional,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+235,system analyst ,Pt. Batara Guru Teknologi,"['Blok M, Jakarta', 'IDR\xa06.000.000 - 7.500.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '6.000.000', '-', '7.500.000']",6000000,7500000,3
+236,data tech officer,Shift Academy,"['Jakarta', 'IDR\xa06.500.000 - 9.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '6.500.000', '-', '9.000.000']",6500000,9000000,1
+237,data engineer,Generasi Teknologi Buana,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+238,business analyst,Act Foundation,"['TB Simatupang, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+239,business analyst,PT. Asian Sigma Technology,"['Sunter, Jakarta', 'IDR\xa06.000.000 - 12.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '6.000.000', '-', '12.000.000']",6000000,12000000,3
+240,data scientist,Pt Simplefi Teknologi Indonesia,"['Kuningan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+241,data storyteller,DKK Consulting,"['Jakarta', '']",Jakarta,,[],0,0,0
+242,business analyst,Andalin,"['Jakarta', '']",Jakarta,,[],0,0,0
+243,business analyst,PT. Asian Sigma Technology,"['Jakarta', 'IDR\xa09.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '9.000.000', '-', '10.000.000']",9000000,10000000,1
+244,data engineer,PT Bobobox Mitra Indonesia,"['Bandung', '3 – 5 tahun']",Bandung,3 – 5 tahun,[],0,0,3
+245,data scientist,Pt Datasintesa Teknologi Nusantara,"['Cilandak, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+246,data science lecturer (jkt),Purwadhika Digital Technology School,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+247,business intelligence analyst ,Pt Krakatau Karya Abadi,"['Surabaya', 'IDR\xa05.000.000 - 9.000.000', '1 – 3 tahun']",Surabaya,1 – 3 tahun,"['IDR', '5.000.000', '-', '9.000.000']",5000000,9000000,1
+248,system analyst ,PT Metranet,"['Bandung', 'IDR\xa05.000.000 - 15.000.000', '1 – 3 tahun']",Bandung,1 – 3 tahun,"['IDR', '5.000.000', '-', '15.000.000']",5000000,15000000,1
+249,system analyst ,PT Qtasnim Digital Teknologi,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+250,data preparation - scripter,Deka Marketing Research,"['Kebayoran Baru, Jakarta', 'IDR\xa04.500.000 - 5.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.500.000', '-', '5.000.000']",4500000,5000000,1
+251,data engineer,PT. Asian Sigma Technology,"['Sunter, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+252,data engineer,PowerCommerce.Asia,"['Mampang Prapatan, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+253,it solution analyst,Pt Linov Roket Prestasi,"['Tebet, Jakarta', 'IDR\xa08.000.000 - 12.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '8.000.000', '-', '12.000.000']",8000000,12000000,3
+254,research & data coordinator,Pt Hara Anargya Indonesia,"['Bandung', 'IDR\xa03.000.000 - 6.000.000', '3 – 5 tahun']",Bandung,3 – 5 tahun,"['IDR', '3.000.000', '-', '6.000.000']",3000000,6000000,3
+255,research & data coordinator,Pt Hara Anargya Indonesia,"['Bandung', 'IDR\xa03.000.000 - 6.000.000', '3 – 5 tahun']",Bandung,3 – 5 tahun,"['IDR', '3.000.000', '-', '6.000.000']",3000000,6000000,3
+256,research & data coordinator,Pt Hara Anargya Indonesia,"['Bandung', 'IDR\xa03.000.000 - 5.000.000', '3 – 5 tahun']",Bandung,3 – 5 tahun,"['IDR', '3.000.000', '-', '5.000.000']",3000000,5000000,3
+257,staff admin online ,PT Altama Surya Anugerah,"['Penjaringan, Jakarta', 'IDR\xa04.500.000 - 6.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.500.000', '-', '6.000.000']",4500000,6000000,1
+258,data engineer,Kitalulus,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+259,business analyst,PT Nawadata Solutions,"['Jakarta', 'IDR\xa07.000.000 - 12.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '7.000.000', '-', '12.000.000']",7000000,12000000,3
+260,resepsionis,Pt Graha Perdana Indah (gardens At Candi Sawangan),"['Depok', 'IDR\xa04.000.000 - 4.500.000', '1 – 3 tahun']",Depok,1 – 3 tahun,"['IDR', '4.000.000', '-', '4.500.000']",4000000,4500000,1
+261,marketing analyst,Altea Care (pt Sehat Digital Nusantara),"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+262,business analyst,Dezire Technologies Pte Ltd,"['Jakarta', 'IDR\xa015.000.000 - 22.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '15.000.000', '-', '22.000.000']",15000000,22000000,3
+263,data engineer,Sayurbox,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+264,finance analyst manager,Pt Kafilah Teknologi Indonesia,"['Depok', 'IDR\xa04.000.000 - 7.000.000', '1 – 3 tahun']",Depok,1 – 3 tahun,"['IDR', '4.000.000', '-', '7.000.000']",4000000,7000000,1
+265,data engineer,Bina Nusantara Group,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+266,data engineer,PT Bobobox Mitra Indonesia,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+267,product analyst,Blibli,"['Gambir, Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+268,data center automation engineer ,Pt. Ekagrata Data Gemilang ( Edge ),"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+269,data scientist,Id/x Partners,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+270,isg analyst (intern),AIA Singapore Pte Ltd,"['Batam', '1 – 3 tahun']",Batam,1 – 3 tahun,[],0,0,1
+271,business analyst,Studycle,"['Bandung', '']",Bandung,,[],0,0,0
+272,business intelligence analyst,Ninja Xpress,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+273,business analyst,PT Cerdas Digital Nusantara (CAKAP),"['Grogol Petamburan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+274,data visualization / information designer,Pt Krakatau Karya Abadi,"['Jakarta', 'IDR\xa05.000.000 - 9.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '9.000.000']",5000000,9000000,1
+275,data scientist,PT NUSA INTI SATU ARTHA (DOKU),"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+276,it solution analyst,PT Code Development Indonesia,"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+277,data operation intern,Gtech Group,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+278,talent acquisition intern ,Glints Indonesia,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+279,data engineer,Nucleusbi,"['Denpasar', '1 – 3 tahun']",Denpasar,1 – 3 tahun,[],0,0,1
+280,business analyst,PT Indocyber Global Teknologi,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+281,equity research analyst,Pilarmas Investindo Sekuritas,"['Jakarta', '']",Jakarta,,[],0,0,0
+282,data engineer,PT YOU Indonesia,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+283,microbiology analyst,Pt. Mcdelica Food Indonesia,"['Serang', 'IDR\xa04.215.180 - 4.215.181', '1 – 3 tahun']",Serang,1 – 3 tahun,"['IDR', '4.215.180', '-', '4.215.181']",4215180,0,1
+284,system analyst ,Htc Global Services,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+285,business analyst,PT Mobile Sarana Sentosa,"['Grogol Petamburan, Jakarta', 'IDR\xa06.000.000 - 15.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '6.000.000', '-', '15.000.000']",6000000,15000000,1
+286,data engineer,Zenius Education,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+287,data engineer,Pt. Amartha Mikro Fintek,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+288,social media analyst,Vidio,"['Senayan, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+289,software analyst,Telogic LTD,"['Cilandak, Jakarta', 'IDR\xa08.000.000 - 15.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '8.000.000', '-', '15.000.000']",8000000,15000000,3
+290,system analyst ,PT Tonjoo Gagas Teknologi,"['Sleman', 'IDR\xa03.000.000 - 4.500.000', '1 – 3 tahun']",Sleman,1 – 3 tahun,"['IDR', '3.000.000', '-', '4.500.000']",3000000,4500000,1
+291,technical analyst,PT. Mindo Small Business Solutions,"['Yogyakarta', 'IDR\xa04.000.000 - 7.000.000', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,"['IDR', '4.000.000', '-', '7.000.000']",4000000,7000000,1
+292,business analyst,For Her,"['Kebayoran Lama, Jakarta', 'IDR\xa02.000.000 - 6.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '2.000.000', '-', '6.000.000']",2000000,6000000,1
+293,business analyst,Pt Linov Roket Prestasi,"['Menteng, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+294,business analyst,Abhati Group,"['Sunter, Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+295,data engineer,Trg,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+296,business analyst,PT Inti Corpora Teknologi,"['Tanah Abang, Jakarta', 'IDR\xa012.000.000 - 25.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '12.000.000', '-', '25.000.000']",12000000,25000000,3
+297,business analyst,Pt Vanz Inovatif Teknologi (qbit),"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+298,data engineer,Pt. Oto Klix Indonesia,"['Kebayoran Lama, Jakarta', 'IDR\xa07.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '7.000.000', '-', '10.000.000']",7000000,10000000,1
+299,data science engineer,Pt Merah Cipta Media,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+300,business analyst,Nawatech,"['Jakarta', 'IDR\xa05.000.000 - 8.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '8.000.000']",5000000,8000000,1
+301,business analyst,PT Geek Seat Indonesia,"['Bandung', '3 – 5 tahun']",Bandung,3 – 5 tahun,[],0,0,3
+302,business analyst,PT. Barrans Global Mandiri,"['Bandung', '5 – 10 tahun']",Bandung,5 – 10 tahun,[],0,0,5
+303,business intelligence analyst,Zenius Education,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+304,head of data science,Pt Mega Perintis Tbk,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+305,system analyst ,Bisnis Indonesia Group,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+306,business operations analyst ,Quipper,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+307,data scientist,PT. Rumah Belajar Indonesia,"['Bandung', 'IDR\xa05.000.000 - 10.000.000', '3 – 5 tahun']",Bandung,3 – 5 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,3
+308,data engineer,Pt. Sharing Vision Indonesia,"['Jakarta', 'IDR\xa08.000.000 - 12.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '8.000.000', '-', '12.000.000']",8000000,12000000,1
+309,data science lecturer (bsd),Purwadhika Digital Technology School,"['South Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+310,content creator & analyst,Indonesia Crypto Network,"['Blok M, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+311,system analyst ,Jojonomic Pte Ltd,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+312,intern hr,Pt Tencent Technology Indonesia,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+313,business analyst,Tix Id,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+314,business analyst,Widya Wicara,"['Yogyakarta', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,[],0,0,1
+315,sales operation & market analyst,Eurokars Group Indonesia,"['Kebayoran Baru, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+316,data engineer,99.co Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+317,business analyst,Sharkmind.id,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+318,data scientist,Zenius Education,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+319,system analyst ,Pt Fiture Teknologi Inovasi,"['Jakarta', 'IDR\xa08.800.000 - 14.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '8.800.000', '-', '14.000.000']",8800000,14000000,1
+320,dbo relationship analyst,PT Wahana Duta Jaya Rucika,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+321,system analyst ,DDTC,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+322,system analyst ,Ultimo Solution,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+323,system analyst ,Widya Imersif Teknologi,"['Yogyakarta', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,[],0,0,1
+324,fulfillment center analyst - tangerang,Edenfarm,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+325,data scientist,Pt Solusi Integrasi Pratama,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+326,data engineer,Vidio,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+327,it bussiness analyst,PT. Asian Sigma Technology,"['Sunter, Jakarta', 'IDR\xa07.000.000 - 12.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '7.000.000', '-', '12.000.000']",7000000,12000000,3
+328,market analyst,Pt Waktu Cipta Dimensi,"['Jakarta', 'IDR\xa06.000.000 - 7.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '6.000.000', '-', '7.000.000']",6000000,7000000,1
+329,marketing research analyst,Glints Indonesia,"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+330,data scientist,Haruplate,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+331,data center costumer service ,Pt. Ekagrata Data Gemilang ( Edge ),"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+332,system analyst ,D~net,"['Surabaya', 'IDR\xa04.000.000 - 5.000.000', '1 – 3 tahun']",Surabaya,1 – 3 tahun,"['IDR', '4.000.000', '-', '5.000.000']",4000000,5000000,1
+333,data analytic,Aiforesee,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+334,data analytic,Revou,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+335,system analyst ,Pt Linov Roket Prestasi,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+336,business analyst,Pt Satkomindo Mediyasa,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+337,business analyst,PT Chrombit Digital Lab,"['Kemang', 'IDR\xa04.500.000 - 6.000.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '4.500.000', '-', '6.000.000']",4500000,6000000,0
+338,operations analyst - bandung,Edenfarm,"['Bandung', '1 – 3 tahun']",Bandung,1 – 3 tahun,[],0,0,1
+339,system analyst ,Sekawan Media,"['Malang', '1 – 3 tahun']",Malang,1 – 3 tahun,[],0,0,1
+340,marketing analyst,Revou,"['Kuningan, Jakarta', 'Login to view estimated salary by Glints.', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,1
+341,data scientist,Hallo Group,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+342,data scientist,Confidential Company Talenthunt 1 -009,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+343,system analyst ,PT Suitmedia Kreasi Indonesia,"['Jakarta', 'IDR\xa04.000.000 - 7.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.000.000', '-', '7.000.000']",4000000,7000000,1
+344,admin data,Bang Jago Media,"['Yogyakarta', 'Kurang dari setahun']",Yogyakarta,Kurang dari setahun,[],0,0,0
+345,data entry,Glowlabs Indonesia,"['Solo', 'Kurang dari setahun']",Solo,Kurang dari setahun,[],0,0,0
+346,business analyst,AIA Singapore Pte Ltd,"['Batam', '3 – 5 tahun']",Batam,3 – 5 tahun,[],0,0,3
+347,business analyst,PT Docotel Teknologi,"['Jakarta', 'IDR\xa08.500.000 - 15.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '8.500.000', '-', '15.000.000']",8500000,15000000,3
+348,support analyst remote asia,Port Cities,"['Semarang', '1 – 3 tahun']",Semarang,1 – 3 tahun,[],0,0,1
+349,data engineer,PT K-24 Indonesia,"['Yogyakarta', 'IDR\xa03.000.000 - 5.000.000', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,"['IDR', '3.000.000', '-', '5.000.000']",3000000,5000000,1
+350,data entry,Bang Jago Media,"['Yogyakarta', 'Kurang dari setahun']",Yogyakarta,Kurang dari setahun,[],0,0,0
+351,data engineer,Celerates,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+352,data scientist,,"['Jakarta', 'IDR\xa08.000.000 - 15.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '8.000.000', '-', '15.000.000']",8000000,15000000,1
+353,data engineer,MNC Group,"['Menteng, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+354,data engineer,Pt. Sharing Vision Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+355,data engineer,Emtrade,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+356,data architect,PT Cybertrend Intrabuana,"['Cilandak, Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+357,business analyst,SOLMITRA FINTEC,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+358,technical analyst,PT Rekadia Solusi Teknologi,"['Bandung', '5 – 10 tahun']",Bandung,5 – 10 tahun,[],0,0,5
+359,data engineer,Cad-it Iot Centre,"['Bandung', '']",Bandung,,[],0,0,0
+360,data engineer,Nalagenetics,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+361,business analyst,Yayasan Agri Sustineri Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+362,data scientist,Vidio,"['Senayan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+363,data engineer,Id/x Partners,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+364,system analyst ,Act Foundation,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+365,system analyst ,Pt. Comtelindo,"['Balikpapan', 'Kurang dari setahun']",Balikpapan,Kurang dari setahun,[],0,0,0
+366,sales administration,Common Grounds Coffee Roastery,"['Penjaringan, Jakarta', 'IDR\xa04.200.000 - 5.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.200.000', '-', '5.000.000']",4200000,5000000,1
+367,campaign analyst,ASTRO,"['Kembangan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+368,senior revenue management analyst,ZEN ROOMS,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+369,system analyst ,PT. Loyalty Program Indonesia,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+370,it data warehouse (financial services),PT. Asian Sigma Technology,"['Serpong', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+371,staff customer service & data support,Pt. Ckl Indonesia Raya,"['Gambir, Jakarta', 'IDR\xa04.450.000 - 5.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.450.000', '-', '5.000.000']",4450000,5000000,1
+372,data engineer,ITOMMEY Bintang Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+373,business analyst,Hukumonline.com,"['TB Simatupang, Jakarta', 'Login to view estimated salary by Glints.', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,1
+374,data reconciliation officer,Magna Karsa Mulya,"['Surabaya', 'IDR\xa05.000.000 - 6.000.000', '1 – 3 tahun']",Surabaya,1 – 3 tahun,"['IDR', '5.000.000', '-', '6.000.000']",5000000,6000000,1
+375,system analyst ,Ogya Tekno Nusantara,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+376,it solution analyst (senior),PT Code Development Indonesia,"['Jakarta', 'Login to view estimated salary by Glints.', '5 – 10 tahun']",Jakarta,5 – 10 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,5
+377,system analyst ,Chick-in,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+378,data center operator,Htc Global Services,"['Jakarta', 'IDR\xa04.000.000 - 4.400.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '4.000.000', '-', '4.400.000']",4000000,4400000,0
+379,business analyst,Invelli Solusindo,"['Jakarta', '']",Jakarta,,[],0,0,0
+380,system analyst ,PT Inti Corpora Teknologi,"['Tanah Abang, Jakarta', 'IDR\xa012.000.000 - 25.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '12.000.000', '-', '25.000.000']",12000000,25000000,3
+381,system analyst ,Pt Fiture Teknologi Inovasi,"['Jakarta', 'IDR\xa00 - 500.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '0', '-', '500.000']",0,500000,0
+382,data engineer,Vidio,"['Senayan, Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+383,junior analyst officer,Tez Ventura Indonesia,"['Senayan, Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+384,business analyst,I-access Solution,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+385,data scientist,Moslem Community Application,"['Jakarta', 'IDR\xa010.000.000 - 15.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '10.000.000', '-', '15.000.000']",10000000,15000000,1
+386,financial analyst,Chick-in,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+387,system analyst ,Bina Nusantara Group,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+388,business analyst,Pt Platinumetrix Global Inovasi,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+389,business analyst,Pt Cipta Harmoni Lestari,"['Tangerang', 'IDR\xa05.000.000 - 7.000.000', '1 – 3 tahun']",Tangerang,1 – 3 tahun,"['IDR', '5.000.000', '-', '7.000.000']",5000000,7000000,1
+390,hr analyst,PT Cerdas Digital Nusantara (CAKAP),"['Grogol Petamburan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+391,system analyst ,PT Code Development Indonesia,"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+392,it security analyst,PowerCommerce.Asia,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+393,system analyst ,Artajasa,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+394,system analyst ,PowerCommerce.Asia,"['Jakarta', '5 – 10 tahun']",Jakarta,5 – 10 tahun,[],0,0,5
+395,data engineer,99.co Indonesia,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+396,data engineer,Celerates,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+397,system analyst ,PT Infinitium Solutions,"['Jakarta', 'IDR\xa08.000.000 - 14.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '8.000.000', '-', '14.000.000']",8000000,14000000,1
+398,business analyst,Woso Chakra Berdaya,"['Sleman', 'Kurang dari setahun']",Sleman,Kurang dari setahun,[],0,0,0
+399,data center operation,PT Dwi Tunggal Putra,"['Depok', 'IDR\xa04.000.000 - 4.500.000', '1 – 3 tahun']",Depok,1 – 3 tahun,"['IDR', '4.000.000', '-', '4.500.000']",4000000,4500000,1
+400,business analyst,For Her,"['Jakarta', 'IDR\xa01.000.000 - 1.000.000', '']",Jakarta,,"['IDR', '1.000.000', '-', '1.000.000']",1000000,1000000,0
+401,it data warehouse,PT. Asian Sigma Technology,"['Tangerang', 'IDR\xa05.000.000 - 12.000.000', '1 – 3 tahun']",Tangerang,1 – 3 tahun,"['IDR', '5.000.000', '-', '12.000.000']",5000000,12000000,1
+402,customer insights analyst ,Shox Rumahan,"['Yogyakarta', 'IDR\xa08.000.000 - 13.000.000', '3 – 5 tahun']",Yogyakarta,3 – 5 tahun,"['IDR', '8.000.000', '-', '13.000.000']",8000000,13000000,3
+403,lecturer - sekolah data,Pacmann Ai,"['Jakarta', 'IDR\xa05.000.000 - 6.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '6.000.000']",5000000,6000000,1
+404,system analyst ,PT Suitmedia Kreasi Indonesia,"['Jakarta', 'IDR\xa02.000.000 - 4.000.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '2.000.000', '-', '4.000.000']",2000000,4000000,0
+405,programmer analyst,Iron Bird Logistic,"['Cakung, Jakarta', 'IDR\xa010.000.000 - 15.000.000', '5 – 10 tahun']",Jakarta,5 – 10 tahun,"['IDR', '10.000.000', '-', '15.000.000']",10000000,15000000,5
+406,administrator data entry,PT Solusi Moodah Indonesia,"['Kuningan, Jakarta', 'IDR\xa02.000.000 - 3.000.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '2.000.000', '-', '3.000.000']",2000000,3000000,0
+407,geospatial data science officer,PT Sinar Mas Agro Resources and Technology Tbk,"['Antasari, Jakarta', 'IDR\xa05.000.000 - 10.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '10.000.000']",5000000,10000000,1
+408,magang data admin accounting,Generator Pasifik Indonesia,"['Kemang', '']",Jakarta,,[],0,0,0
+409,dbo customer engagement analyst,PT Wahana Duta Jaya Rucika,"['Jakarta', 'Login to view estimated salary by Glints.', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,3
+410,business analyst,Dhana Jasa Konsultan,"['Abang', 'IDR\xa015.000.000 - 35.000.000', '5 – 10 tahun']",Jakarta,5 – 10 tahun,"['IDR', '15.000.000', '-', '35.000.000']",15000000,35000000,5
+411,business analyst,AIA Singapore Pte Ltd,"['Batam', '3 – 5 tahun']",Batam,3 – 5 tahun,[],0,0,3
+412,system analyst ,"Altech Omega Andalan, Pt","['Jakarta', 'IDR\xa04.500.000 - 6.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.500.000', '-', '6.000.000']",4500000,6000000,1
+413,system analyst ,Moxcal Teknologi,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+414,product analyst,Trustmedis,"['Surabaya', 'IDR\xa04.000.000 - 6.000.000', '1 – 3 tahun']",Surabaya,1 – 3 tahun,"['IDR', '4.000.000', '-', '6.000.000']",4000000,6000000,1
+415,administrator data entry,Pt. Sava Jakarta Properti,"['Kemang, Jakarta', 'IDR\xa02.000.000 - 3.000.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '2.000.000', '-', '3.000.000']",2000000,3000000,0
+416,equity research analyst,PT Phillip Sekuritas Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+417,credit analyst ,Pt Finansia Aira Teknologi,"['Yogyakarta', '1 – 3 tahun']",Yogyakarta,1 – 3 tahun,[],0,0,1
+418,credit analyst,Pt Finansia Aira Teknologi,"['Semarang', '1 – 3 tahun']",Semarang,1 – 3 tahun,[],0,0,1
+419,admin policy processing,Fuse Nano Tekno,"['Kebon Jeruk, Jakarta', 'IDR\xa04.000.000 - 5.500.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.000.000', '-', '5.500.000']",4000000,5500000,1
+420,legal intern,GenB Data,"['Jakarta', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,[],0,0,0
+421,credit analyst,Pt Finansia Aira Teknologi,"['Surabaya', '1 – 3 tahun']",Surabaya,1 – 3 tahun,[],0,0,1
+422,data engineer,Tada,"['Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+423,business analyst,PowerCommerce.Asia,"['Mampang Prapatan, Jakarta', '3 – 5 tahun']",Jakarta,3 – 5 tahun,[],0,0,3
+424,marketing analyst,Ula,"['Jakarta', 'Login to view estimated salary by Glints.', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,1
+425,business intelligence analyst,Hartono Elektronika,"['Surabaya', '1 – 3 tahun']",Surabaya,1 – 3 tahun,[],0,0,1
+426,credit analyst,Pt Finansia Aira Teknologi,"['Bekasi', '1 – 3 tahun']",Bekasi,1 – 3 tahun,[],0,0,1
+427,admin penjualan,Ziel Kids,"['Jakarta', 'IDR\xa03.000.000 - 4.000.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '3.000.000', '-', '4.000.000']",3000000,4000000,0
+428,admin entry data,Pt. Bintang Sarana Graha,"['Surabaya', '1 – 3 tahun']",Surabaya,1 – 3 tahun,[],0,0,1
+429,finance and costing analyst,Pt Dynapack Indonesia,"['Tangerang', '1 – 3 tahun']",Tangerang,1 – 3 tahun,[],0,0,1
+430,digital marketing analyst,Pt. Dom Pizza Indonesia,"['Tanah Abang, Jakarta', 'IDR\xa07.000.000 - 13.500.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '7.000.000', '-', '13.500.000']",7000000,13500000,3
+431,mobile solution analyst,PT Suitmedia Kreasi Indonesia,"['Jakarta', 'IDR\xa04.000.000 - 7.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.000.000', '-', '7.000.000']",4000000,7000000,1
+432,data marketing resources,PT Manxi Image Perkasa,"['Solo', 'IDR\xa01.000.000 - 2.014.000', '']",Solo,,"['IDR', '1.000.000', '-', '2.014.000']",1000000,2014000,0
+433,business intelligence/data science curriculum coordinator - sekolah data,Pacmann Ai,"['Jakarta', 'IDR\xa05.000.000 - 6.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '5.000.000', '-', '6.000.000']",5000000,6000000,1
+434,financial product analyst & writer,PT. Pintar Inovasi Digital,"['Jakarta', 'IDR\xa010.000.000 - 15.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '10.000.000', '-', '15.000.000']",10000000,15000000,1
+435,system analyst ,Chick-in,"['Malang', 'Kurang dari setahun']",Malang,Kurang dari setahun,[],0,0,0
+436,accounting data entry,Pt Mode Karya Indonesia,"['Penjaringan, Jakarta', 'IDR\xa02.000.000 - 2.500.000', 'Kurang dari setahun']",Jakarta,Kurang dari setahun,"['IDR', '2.000.000', '-', '2.500.000']",2000000,2500000,0
+437,system analyst ,PT. Asian Sigma Technology,"['Kuningan, Jakarta', 'IDR\xa07.000.000 - 13.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '7.000.000', '-', '13.000.000']",7000000,13000000,3
+438,senior marketing analyst,Mnc Portal Indonesia,"['Jakarta', 'IDR\xa07.000.000 - 9.500.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '7.000.000', '-', '9.500.000']",7000000,9500000,3
+439,system analyst ,Pt Indopasifik Indahtama,"['Jakarta', 'Login to view estimated salary by Glints.', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['Login', 'to', 'view', 'estimated', 'salary', 'by', 'Glints.']",0,0,1
+440,social media analyst,PT Flux Asia Solusindo,"['Senayan, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+441,administarsi senior staff (surabaya),Group Aroma,"['Surabaya', 'IDR\xa04.000.000 - 5.000.000', '1 – 3 tahun']",Surabaya,1 – 3 tahun,"['IDR', '4.000.000', '-', '5.000.000']",4000000,5000000,1
+442,research integrative analyst ,Genomik Solidaritas Indonesia,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+443,purchasing staff,Pt. Furindosakti Sejahtera,"['Cengkareng, Jakarta', 'IDR\xa04.500.000 - 8.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '4.500.000', '-', '8.000.000']",4500000,8000000,1
+444,business analyst,Ogya Tekno Nusantara,"['Jakarta', 'IDR\xa09.000.000 - 15.000.000', '3 – 5 tahun']",Jakarta,3 – 5 tahun,"['IDR', '9.000.000', '-', '15.000.000']",9000000,15000000,3
+445,business analyst,Waktukita.com,"['Surabaya', 'IDR\xa07.000.000 - 10.000.000', '3 – 5 tahun']",Surabaya,3 – 5 tahun,"['IDR', '7.000.000', '-', '10.000.000']",7000000,10000000,3
+446,business analyst,Pt Indepay Network Indonesia,"['SCBD, Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
+447,customer service and claim officer,Fuse Nano Tekno,"['Kebon Jeruk, Jakarta', 'IDR\xa03.900.000 - 5.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '3.900.000', '-', '5.000.000']",3900000,5000000,1
+448,data analytic,Pt Platinumetrix Global Inovasi,"['Jakarta', 'IDR\xa07.000.000 - 14.000.000', '1 – 3 tahun']",Jakarta,1 – 3 tahun,"['IDR', '7.000.000', '-', '14.000.000']",7000000,14000000,1
+449,freelance data entry,PT Inovasi Sukses Sentosa,"['Jakarta', '1 – 3 tahun']",Jakarta,1 – 3 tahun,[],0,0,1
